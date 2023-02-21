@@ -5,7 +5,29 @@ h1 {
   text-align: center;
   color: white;
 }
-a {
+h3 {
+  display: flex;
+  justify-content: center;
+  font-size: 28px;
+  text-decoration: none;
+}
+.a {
   color: #f6f3ff;
-  
+  justify-content: center;
+  text-decoration: none;
+}
+.div {
+  justify-content: center;
+}
+.email-link {
+  display: flex;
+  justify-content: center;
+  font-size: 28px;
+  text-decoration: none;
+}
+.about-me-title {
+  display: flex;
+  justify-content: center;
+  font-size: 28px;
+  text-decoration: none;
 }
