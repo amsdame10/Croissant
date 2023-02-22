@@ -9,22 +9,23 @@ p {
 h2 {
   text-align: center;
 }
+
 h3 {
   text-align: center;
   display: flex;
   font-size: 28px;
   text-decoration: none;
 }
-.a {
-  text-align: center;
-  text-decoration: none;
-}
-.img {
-  max-width: 100%;
+img {
+  width: 500px;
+  height: 600px;
   border-radius: 10px;
   display: block;
   margin: 30px auto;
 }
 footer {
+  display: block;
+  margin: 30px;
   text-align: center;
+  text-decoration: none;
 }
